@@ -18,7 +18,7 @@ visualizing nca's in python/jupyter notebook:
 - kernel/convolutional filter of size 3, 3, 3 with values in range [0, 1]   
 - activation function is defaulted to sigmoid but can be changed to anything i.e np.tanh ...   
 
-random noise example:
+random noise example:  
 ![random_noise.png](./sample.png)  
 
 ### usage
