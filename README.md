@@ -34,3 +34,4 @@ pip3 install -r 'requirements.txt'
 
 #### issues
 1. currently not sure why the imgs gradually lose color as they evolve/simulate could be activation function / hyperparameters
+2. imageio.v3 is not working correctly *not my fault* the gifs produced flicker the first frame of the gif occasionally
